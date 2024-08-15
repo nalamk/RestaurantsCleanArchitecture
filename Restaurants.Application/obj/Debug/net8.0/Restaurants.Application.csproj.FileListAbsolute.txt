@@ -1,0 +1,15 @@
+D:\Personal\Repos\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+D:\Personal\Repos\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+D:\Personal\Repos\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+D:\Personal\Repos\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.dll
+D:\Personal\Repos\Restaurants\Restaurants.Application\bin\Debug\net8.0\Restaurants.Domain.pdb
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaura.6AB96A7C.Up2Date
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+D:\Personal\Repos\Restaurants\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
